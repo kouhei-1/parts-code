@@ -1,5 +1,4 @@
-function 計算() {
-  let a = 0;//a角
+let a = 0;//a角
   let b = 0;//b角
   let c = 0;//c角
   let badnumber = []
@@ -20,8 +19,7 @@ function 計算() {
             if(l == 0){
               console.log(""+ b +","+ a +","+ c);
               badnumber.push(a)
-            }
-    }
-    }
-  }
+}
+}
+}
 }
