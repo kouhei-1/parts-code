@@ -5,4 +5,5 @@
 数学に役立つPythonコードとか... Javascriptのコードとか...!
 ## 言語
 - Python
-- Javascrip
+- Javascript
+  -Google apps script 
