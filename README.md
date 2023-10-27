@@ -6,4 +6,4 @@
 ## 言語
 - Python
 - Javascript
-  - Google apps script 
+ - Google apps script 
