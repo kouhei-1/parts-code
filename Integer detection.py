@@ -1,3 +1,5 @@
+//整数検出
+
 n = 0 #ここに代入
 a = integer_detection(n)
 print(a)
